@@ -1,9 +1,10 @@
-function App() {
+import KanbanBoard from "./components/KanbanBoard";
 
+function App() {
   return (
-    <>
-      <h1 className="text-3xl">Hello world!</h1>
-    </>
+    <div className="bg-mainBgColor text-textColor h-screen">
+      <KanbanBoard />
+    </div>
   );
 }
 

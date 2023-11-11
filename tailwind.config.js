@@ -8,7 +8,9 @@ export default {
     extend: {
       colors: {
         "mainBgColor": "#f8faf9",
-        "columnBgColor":"#4f5052",
+        "columnBgColor":"#c5c6c8",
+        "textColor":"#272727",
+        "sideColor":"#DE8F5F"
       }
     },
   },

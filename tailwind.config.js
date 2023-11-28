@@ -10,7 +10,7 @@ export default {
         "mainBgColor": "#f8faf9",
         "columnBgColor":"#c5c6c8",
         "textColor":"#272727",
-        "sideColor":"#DE8F5F"
+        "sideColor":"#527069"
       }
     },
   },

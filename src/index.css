@@ -10,3 +10,16 @@
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
 }
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar:horizontal {
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #527069;
+  border-radius: 12px;
+}

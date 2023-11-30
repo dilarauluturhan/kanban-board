@@ -19,7 +19,12 @@
   height: 10px;
 }
 
-::-webkit-scrollbar-thumb{
+::-webkit-scrollbar-thumb {
+  background-color: #527069;
+  border-radius: 12px;
+}
+
+.task > ::-webkit-scrollbar-thumb {
   background-color: #527069;
   border-radius: 12px;
 }
